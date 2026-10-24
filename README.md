@@ -1,16 +1,17 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e16,50:1b2a4a,100:6d4aff&height=220&section=header&text=Atif%20Ullah&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=DevOps%20%26%20Cloud%20Engineer&descSize=22&descAlignY=58" alt="Atif Ullah - DevOps & Cloud Engineer" />
+<h1>Atif Ullah</h1>
+<h3>DevOps &amp; Cloud Engineer</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=Automating+cloud+infrastructure+%26+CI%2FCD+pipelines;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;Computer+Science+student+%40+Abasyn+University;Open+to+DevOps+internships+%26+cloud+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=640&lines=Automating+cloud+infrastructure+%26+CI%2FCD+pipelines;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Atifullah2451&label=Profile%20Views&color=6d4aff&style=flat)
-![Followers](https://img.shields.io/github/followers/Atifullah2451?style=flat&color=00d4ff&labelColor=0b0e16)
+
+<br/>
 
 </div>
 
@@ -31,20 +32,13 @@ Computer Science student and aspiring **DevOps & Cloud Engineer** from Islamabad
 
 ## 🔄 How I Think About Delivery
 
-```mermaid
-flowchart LR
-    A[Commit<br/>Git] --> B[Build<br/>Jenkins]
-    B --> C[Containerize<br/>Docker]
-    C --> D[Orchestrate<br/>Kubernetes]
-    D --> E[Deploy<br/>AWS]
-    E --> F[Monitor<br/>Grafana]
-    style A fill:#0b3d4d,stroke:#00d4ff,color:#fff
-    style B fill:#0b3d4d,stroke:#00d4ff,color:#fff
-    style C fill:#2a1f5c,stroke:#966eff,color:#fff
-    style D fill:#2a1f5c,stroke:#966eff,color:#fff
-    style E fill:#0f4a35,stroke:#3ce196,color:#fff
-    style F fill:#0f4a35,stroke:#3ce196,color:#fff
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,jenkins,docker,kubernetes,aws,grafana&theme=dark&perline=6" alt="Git, Jenkins, Docker, Kubernetes, AWS, Grafana" />
+
+`Commit` ➜ `Build` ➜ `Containerize` ➜ `Orchestrate` ➜ `Deploy` ➜ `Monitor`
+
+</div>
 
 ---
 
@@ -77,18 +71,6 @@ flowchart LR
 
 ---
 
-## 📌 Featured Projects
-
-> Replace these with your own repositories. Describe each in one line: what it does and which tools it uses.
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🔗 [**project-name-1**](https://github.com/Atifullah2451) | CI/CD pipeline that builds a Docker image and deploys on every push | `Jenkins` `Docker` `AWS` |
-| 🔗 [**project-name-2**](https://github.com/Atifullah2451) | AWS infrastructure (VPC, EC2, S3) provisioned as code | `Terraform` `AWS` |
-| 🔗 [**project-name-3**](https://github.com/Atifullah2451) | Containerized app deployed to a Kubernetes cluster | `Docker` `Kubernetes` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,15 +81,6 @@ flowchart LR
 <img src="https://streak-stats.demolab.com?user=Atifullah2451&theme=tokyonight&hide_border=true&background=0b0e16" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🎯 Currently Working Towards
-
-- [ ] AWS Cloud Practitioner / Solutions Architect Associate
-- [ ] Certified Kubernetes Administrator (CKA)
-- [ ] Terraform Associate
-- [ ] Build and document 3 end-to-end DevOps projects
 
 ---
 
@@ -122,7 +95,5 @@ flowchart LR
 <br/>
 
 *"Automate everything that can be automated."* ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,50:1b2a4a,100:0b0e16&height=120&section=footer" alt="footer" />
 
 </div>
